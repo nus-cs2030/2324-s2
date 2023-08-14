@@ -4,4 +4,4 @@
 
 Welcome to the home repository for CS2030! 😃
 
-To find out more about how to contribute, [click here!](https://github.com/nus-cs2030/2223-s1/wiki)
+To find out more about how to contribute, [click here!](https://github.com/nus-cs2030/2324-s1/wiki)
