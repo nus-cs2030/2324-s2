@@ -12,7 +12,6 @@ set autoindent " turn on auto-indentation
 set smartindent " turn on smart indent
 set showcmd " show partial command in the last line of the screen
 set backspace=indent,eol,start " control behavor of backspace
-set writebackup " make a backup before overwriting a file
 set visualbell " blink instead of beeping
 set scrolloff=1 " scroll offset is 1 line
 set ruler " show information about the cursor
