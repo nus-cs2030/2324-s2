@@ -1,4 +1,3 @@
-set nocompatible
 filetype on " turn on filetype detecton 
 filetype plugin on " turn on plugin per filetype
 filetype indent on " turn on auto-indent per filetype
@@ -24,4 +23,3 @@ set matchpairs+=<:> " add < > to pair matching;
 set clipboard=autoselect,exclude:.*
 set formatoptions+=r " auto insert comment leader after hitting <enter> 
 syntax on " turn on syntax highlighting
-set guifont=LiberationMono\ 12  " nice font for gvim
