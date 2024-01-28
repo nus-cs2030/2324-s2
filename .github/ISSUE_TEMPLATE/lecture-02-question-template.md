@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-# Description
+# Question Description
 
 Description of the question here.
 
-## Topic:
+## Your contribution:
 
-Specific Topics this question is related to (If Any)
+Your contribution to this question.
 
 ## Screenshots
 
